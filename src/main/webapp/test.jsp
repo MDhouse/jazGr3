@@ -8,12 +8,7 @@
 </head>
 <body>
 
-<form action="FirstServlet">
-
-  First name :<input type="text" name="name"  /><br />
-  <input type="submit" value=" OK ">
-  
-</form>
+Test
 
 </body>
 </html>
